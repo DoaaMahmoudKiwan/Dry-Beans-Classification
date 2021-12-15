@@ -1,6 +1,6 @@
 # Dry-Beans-Classification
 
-This was a team work submission in a kaggle competition organizes by the Information Technology Institute (ITI) in Egypt.
+This was a team work submission in a kaggle competition organized by the Information Technology Institute (ITI) in Egypt.
 
 The dataset consists of features describing the shape of the bean and teams were required to predict it's type.
 
